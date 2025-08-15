@@ -25,7 +25,7 @@ int main(){
 
     nf = (0.2*lab)+(0.8*sqrt(pj*pv));
 
-    printf("A sua nota final foi %.1f\n", nf);
+    printf("A sua nota final é: %.1f\n", nf);
 
     return 0;
 }
